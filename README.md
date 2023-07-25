@@ -1,7 +1,18 @@
 # Data_analyst
  
-# LFS Files:
+# Crie o ambiente virtual para o projeto
+python3 -m venv .venv && source .venv/bin/activate
 
-git lfs install
+# Instale as dependências
+python3 -m pip install -r requirements.txt
 
-git lfs track
+### Case - Cancelamento de Clientes
+
+# Importar a base de dados
+
+# Visualizar a base de dados
+
+# Trattamento de erros 
+
+# Analise incial dos dados
+
