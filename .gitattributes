@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
+/Data_analyst/gabarito.ipynb filter=lfs diff=lfs merge=lfs -text
+=======
+/Users/adalbertoramosribeiro/Desktop/Jornada filter=lfs diff=lfs merge=lfs -text
+Python/Data_analyst/gabarito.ipynb filter=lfs diff=lfs merge=lfs -text
+>>>>>>> parent of 62ea81a (fix LFS)
