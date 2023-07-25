@@ -12,7 +12,7 @@ python3 -m pip install -r requirements.txt
 
 # Visualizar a base de dados
 
-# Trattamento de erros 
+# Tratamento de erros 
 
 # Analise incial dos dados
 
